@@ -23,3 +23,21 @@ Use tiny test amounts. Never run with real money without understanding the code.
    ```bash
    git clone https://github.com/yourusername/robinpump-ai-trader.git
    cd robinpump-ai-trader
+
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Copy & configure .env
+   ```bash
+   cp .env.example .env
+   # Edit .env → add PRIVATE_KEY, WALLET_ADDRESS, etc.
+
+4. Critical:
+   Find & set real BONDING_CURVE_ADDRESS in src/config.py
+   (inspect a create/buy tx on https://basescan.org from robinpump.fun)
+
+5. Run (dry mode first)
+   ```bash
+   python run_bot.py
+       
