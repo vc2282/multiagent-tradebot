@@ -1,4 +1,4 @@
-# RobinPump AI Trader
+# MultiAgent Trabot
 
 **AI-powered trading bot for RobinPump.fun (Base chain)**
 
