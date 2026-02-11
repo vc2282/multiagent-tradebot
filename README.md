@@ -1,4 +1,4 @@
-# MultiAgent Trabot (!!!! GENERATE BY AI FOR IDEA ILLUSTRATION ONLY !!!!)
+# MultiAgent Trabot (!!!! FOR DEMO ONLY !!!!)
 
 ![1770832409843](https://github.com/user-attachments/assets/5eacd967-a615-42cb-91fa-9289b64b7c40)
 
