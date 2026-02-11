@@ -1,5 +1,7 @@
 # MultiAgent Trabot
 
+![1770832409843](https://github.com/user-attachments/assets/5eacd967-a615-42cb-91fa-9289b64b7c40)
+
 **AI-powered trading bot for RobinPump.fun (Base chain)**
 
 Scans for active tokens → analyzes price patterns & liquidity with LSTM agents → makes automated buy/sell decisions.
