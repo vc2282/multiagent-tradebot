@@ -16,7 +16,7 @@ Use tiny test amounts. Never run with real money without understanding the code.
 - Automated trading on bonding curve (Base)
 - Dry-run mode for safety
 - Parallel processing for 50–100+ tokens
-
+   
 ## Setup
 
 1. Clone repo
@@ -33,11 +33,9 @@ Use tiny test amounts. Never run with real money without understanding the code.
    cp .env.example .env
    # Edit .env → add PRIVATE_KEY, WALLET_ADDRESS, etc.
 
-4. Critical:
-   Find & set real BONDING_CURVE_ADDRESS in src/config.py
-   (inspect a create/buy tx on https://basescan.org from robinpump.fun)
-
-5. Run (dry mode first)
+4. Run (dry mode first)
    ```bash
    python run_bot.py
+
+Critical:Find & set real BONDING_CURVE_ADDRESS in src/config.py inspect a create/buy tx on https://basescan.org from robinpump.fun  
        
